@@ -1,0 +1,5 @@
+body.dark-mode-active {
+  background-color: #181818 !important;
+  color: #f1f1f1 !important;
+  transition: background-color 0.3s, color 0.3s;
+} 
